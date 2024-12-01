@@ -1,4 +1,4 @@
-# 👋 Olá, sou mateus Nunes
+# 👋 Olá, sou Mateus Nunes
 ###
 
 <p align="left"><br><br>Interesses:<br>📊 Área de Dados (Engenharia de Dados & Ciência de Dados)<br><br>Formação:<br>🎓 Estudante de Computação na UFRA (Universidade Federal Rural da Amazônia)<br><br>Experiência Profissional:<br>💼 atualmente sou Estagiário de Cloud Data Engineer na Compass UOL<br><br>Áreas de Foco:<br>🔧 Engenharia de Dados<br>🔍 Ciência de Dados</p>
