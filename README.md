@@ -1,42 +1,4 @@
-<div style="font-family: 'Press Start 2P', monospace; font-size: 16px; color: #A901DB; white-space: nowrap; overflow: hidden; border-right: 2px solid; width: fit-content; animation: typing 3s steps(22), blink 0.5s step-end infinite;">
-  Olá, sou Mateus Nunes
-  <span style="font-size: 20px; animation: wave 1s ease-in-out infinite;">👋</span>
-</div>
-
-<style>
-  @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
-
-  @keyframes typing {
-    from {
-      width: 0;
-    }
-    to {
-      width: 16ch; /* Tamanho do texto */
-    }
-  }
-
-  @keyframes blink {
-    50% {
-      border-color: transparent;
-    }
-  }
-
-  @keyframes wave {
-    0% {
-      transform: rotate(0deg);
-    }
-    50% {
-      transform: rotate(15deg);
-    }
-    100% {
-      transform: rotate(0deg);
-    }
-  }
-</style>
-
-
-
-
+# 👋 Olá, sou mateus Nunes
 ###
 
 <p align="left"><br><br>Interesses:<br>📊 Área de Dados (Engenharia de Dados & Ciência de Dados)<br><br>Formação:<br>🎓 Estudante de Computação na UFRA (Universidade Federal Rural da Amazônia)<br><br>Experiência Profissional:<br>💼 atualmente sou Estagiário de Cloud Data Engineer na Compass UOL<br><br>Áreas de Foco:<br>🔧 Engenharia de Dados<br>🔍 Ciência de Dados</p>
@@ -58,6 +20,8 @@
 
 
 ###
+
+![Snake Animation](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 
 ###
