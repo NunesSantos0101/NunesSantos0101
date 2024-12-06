@@ -1,7 +1,24 @@
-# 👋 Olá, sou Mateus Nunes
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ff007f&size=35&center=true&vCenter=true&width=1000&lines=👋Olá,+meu+nome+é+Mateus+Nunes;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 ###
 
-<p align="left"><br><br>Interesses:<br>📊 Área de Dados (Engenharia de Dados & Ciência de Dados)<br><br>Formação:<br>🎓 Estudante de Computação na UFRA (Universidade Federal Rural da Amazônia)<br><br>Experiência Profissional:<br>💼 atualmente sou Estagiário de Cloud Data Engineer na Compass UOL<br><br>Áreas de Foco:<br>🔧 Engenharia de Dados<br>🔍 Ciência de Dados</p>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;">📝 Sobre Mim</h2>
+
+<p style="font-family: 'Press Start 2P', cursive;">
+  - <b>📊 Interesses:</b><br>
+  Engenharia de Dados & Ciência de Dados<br><br>
+
+  - <b>🎓 Formação Acadêmica:</b><br>
+  Estudante de Computação na <b>UFRA</b> (Universidade Federal Rural da Amazônia)<br><br>
+
+  - <b>💼 Experiência Profissional:</b><br>
+  Estagiário de <b>Cloud Data Engineer</b> na <b>Compass UOL</b><br><br>
+
+  - <b>🔧 Áreas de Foco:</b><br>
+  Engenharia de Dados<br>
+  Ciência de Dados
+</p>
+
 
 ###
 
@@ -27,10 +44,24 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NunesSantos0101&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=header"/>
+<div align="center">
+  <h3><b>Visitor Count</b></h3>
+</div>
+<p align="center">
+  <img
+    src="https://profile-counter.glitch.me/NunesSantos0101/count.svg"
+    alt="Visitor Count"
+  />
+</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ff007f&height=120&section=footer"/>
+
 ###
 <div style="font-family: 'Press Start 2P', sans-serif; color: #A901DB; margin-top: 20px;">
   <h3>Contate-me:</h3>
 </div>
+
+
 
   [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile)
  [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mateussantosde2002@gmail.com)
