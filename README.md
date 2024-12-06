@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="center" style="font-family: 'Press Start 2P', cursive;">📝 Sobre Mim</h2>
+<h2 align="center" style="font-family: 'Press Start 2P', cursive;"></h2>
 
 <p style="font-family: 'Press Start 2P', cursive;">
   - <b>📊 Interesses:</b><br>
